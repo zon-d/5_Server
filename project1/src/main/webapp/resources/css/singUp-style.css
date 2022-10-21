@@ -1,3 +1,11 @@
+article{
+    border-top: 2px solid black;
+    font-size: 14px;
+    font-weight: 100px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
 .signUp-content{
     display: flex;
     justify-content: center;
